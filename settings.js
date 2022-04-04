@@ -11,10 +11,10 @@ global.APIKeys = {
 }
 
 //===> UBAH DISINI
-global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
-global.namabot = 'RyuBotz MD' //Ganti Jadi Nama Botmu
+global.namaowner = 'V7 Yuuzy_' //Ganti Jadi Namamu
+global.owner = ['62895338334350','62895338334450'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '62895338334350' //Owner Utama Istilahnya
+global.namabot = 'YuuzyBotz MD' //Ganti Jadi Nama Botmu
 global.packname = '© Ryubotz MD' //Sticker Weem
 global.author = 'Ryubotz By Ryuuka Team' //Sticker Weem
 global.webme = 'https://api-ryubotz.herokuapp.com'
